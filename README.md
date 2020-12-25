@@ -1,0 +1,2 @@
+# IPv4Screening
+This is a system to identify the class, sum of subnet and host, binary and decimal prefix also to do subnetting of an IP Address. I don't know the subnetting result is valid or not, because i'm still learning about IPv4 until now. But, so far i didn't found any wrong result when i'm testing with the manual operation. The visualization data especially in subnetting table still not enough. Please help me to make this system better. I'm using Python Programming Language to build this sistem.
